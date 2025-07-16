@@ -8,4 +8,4 @@ Technologies Used
 - CSS
 - JavaScript
 
-right click each file in order to run and test it.
+Right click each file in order to run and test it.
